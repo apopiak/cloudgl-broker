@@ -1,0 +1,9 @@
+[package]
+name = "cloudgl-broker"
+version = "0.1.0"
+authors = ["Alexander Popiak <alexander.popiak@gmail.com>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+rustc-serialize = "*"
